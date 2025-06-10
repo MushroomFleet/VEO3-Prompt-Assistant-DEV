@@ -2,6 +2,8 @@
 
 A comprehensive system prompt and curated example collection for creating professional-quality video generation prompts with Google VEO3. Transform basic ideas into detailed, cinematic prompts that leverage VEO3's full capabilities including audio generation, dialogue, and advanced visual effects.
 
+[Windows Client is now available here](https://github.com/MushroomFleet/VEO3-Angel)
+
 ## 🎯 What This Repository Provides
 
 ### 🤖 Ready-to-Use System Prompt
